@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Abhishek!
-### 🤖 AI/ML & Automation Engineer | MCA Student at UPES | Community Builder
+### 🤖 AI/ML & Automation Engineer | Master's Student | Community Builder
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Automation+Engineer+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%9A%80;LLMs+%7C+MLOps+%7C+Computer+Vision;Let's+Grow+Together!+%F0%9F%8C%8D)
 
