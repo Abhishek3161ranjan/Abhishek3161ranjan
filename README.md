@@ -7,11 +7,11 @@
 ---
 
 ### 🚀 About Me
-* [cite_start]🎓 Pursuing **Master's in AI/ML** at UPES [cite: 9, 11]
-* [cite_start]🌍 Based in **Dehradun, India** [cite: 2]
-* 🧠 Specialized in **AI Automation**, leveraging Python and LLMs to streamline complex workflows.
-* [cite_start]🤝 Core Committee Member for **Cloud Security Alliance (CSI)**; organized workshops for 200+ students 
-* [cite_start]⚡ Fun fact: I have a background in **Geospatial data analysis** and **Web Scraping** from my time at HERE Technologies [cite: 22, 25, 26]
+🎓 Pursuing **Master's in AI/ML** at UPES [cite: 9, 11]
+🌍 Based in **Dehradun, India** [cite: 2]
+🧠 Specialized in **AI Automation**, leveraging Python and LLMs to streamline complex workflows.
+🤝 Core Committee Member for **Cloud Security Alliance (CSI)**; organized workshops for 200+ students 
+⚡ Fun fact: I have a background in **Geospatial data analysis** and **Web Scraping** from my time at HERE Technologies [cite: 22, 25, 26]
 
 ---
 
