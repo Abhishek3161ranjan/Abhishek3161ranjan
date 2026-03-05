@@ -1,84 +1,50 @@
-<div align="center">
-
 # 👋 Hey, I'm Abhishek!
-### 🤖 AI/ML Enthusiast | Master's Student | Community Builder
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+AI+%26+ML;Building+in+Public+%F0%9F%9A%80;Learning+Fast+%7C+Sharing+Faster;Let's+Grow+Together!)
+### 🤖 AI/ML & Automation Engineer | MCA Student at UPES | Community Builder
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing **Master's in AI/ML** 
-- 🌍 Based in **India**
-- 🧠 Obsessed with **AI moving at lightning speed** — and keeping up with it
-- 🤝 Here to **learn, collaborate, and give back** to the community
-- 💼 Looking to **land my first client** and grow in this space
-- ⚡ Fun fact: I'm probably reading an AI paper right now
+**Building intelligent, data-driven solutions.**
 
 ---
 
-## 🧰 Tech Stack & Skills
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🛠️ Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🚀 About Me
+* [cite_start]🎓 Pursuing **Master's in AI/ML** at UPES [cite: 9, 11]
+* [cite_start]🌍 Based in **Dehradun, India** [cite: 2]
+* 🧠 Specialized in **AI Automation**, leveraging Python and LLMs to streamline complex workflows.
+* [cite_start]🤝 Core Committee Member for **Cloud Security Alliance (CSI)**; organized workshops for 200+ students 
+* [cite_start]⚡ Fun fact: I have a background in **Geospatial data analysis** and **Web Scraping** from my time at HERE Technologies [cite: 22, 25, 26]
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Tech Stack & Skills
 
-<div align="center">
+#### 📘 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+#### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📚 Currently Learning & Goals
-
-- 🔭 Diving deep into **LLMs & Generative AI**
-- 🌱 Exploring **MLOps & AI deployment**
-- 🎯 2026 Goal: Land my **first AI/ML client**
-- 💬 Ask me about anything **AI/ML** — happy to help!
+#### ☁️ Cloud, BI & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Power Bi](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-ranjan-995b32387/)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/Abhishek3161ranjan&color=00d9ff&style=for-the-badge)
-
-</div>
+### 📊 GitHub Stats
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek3161ranjan&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek3161ranjan&layout=compact&theme=dark)
 
 ---
 
-<div align="center">
+### 📂 Currently Learning & Goals
+* 🔭 Diving deep into **LLMs & AI Automation** (LangChain, AutoGPT)
+* 🏗️ Exploring **MLOps & AI Deployment** (TensorFlow Serving, Docker)
+* 💬 Ask me about **Computer Vision, Web Scraping, or NLP** — happy to help!
 
-### 💬 *"The best way to learn AI is to build with it — and share the journey."*
+---
 
-🚀 **See you at the top!**
+### 🌐 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/Abhishek-Ranjan-LinkedIn) | [Email](mailto:abhishek17815ranjan@gmail.com)
 
-</div>
+---
+
+> "The best way to learn AI is to build with it — and share the journey."
+> 🚀 See you at the top!
