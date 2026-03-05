@@ -11,12 +11,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **Master's in AI/ML** at UPES, Dehradun
-- 🌍 Based in **Dehradun, India**
+- 🎓 Pursuing **Master's in AI/ML** 
+- 🌍 Based in **India**
 - 🧠 Specialized in **AI Automation**, leveraging Python and LLMs to streamline complex workflows
-- 🤝 Core Committee Member for **Cloud Security Alliance (CSI)** — organized workshops for 200+ students
 - ⚡ Background in **Geospatial Data Analysis** and **Web Scraping** from HERE Technologies
-- 💬 Ask me about **Computer Vision, Web Scraping, or NLP** — happy to help!
+- 💬 Ask me about **Automation, Web Scraping, or AI-ML** — happy to help!
 
 ---
 
@@ -68,7 +67,7 @@
 
 - 🧪 Diving deep into **LLMs & AI Automation** (LangChain, AutoGPT)
 - 🏗️ Exploring **MLOps & AI Deployment** (TensorFlow Serving, Docker)
-- 💬 Ask me about **Computer Vision, Web Scraping, or NLP** — happy to help!
+- 💬 Ask me about **Automation, Web Scraping, or AI-ML** — happy to help!
 
 ---
 
